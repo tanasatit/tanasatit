@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanasatit Ngaosupathon
 
-<!--
-**tanasatit/tanasatit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software & Knowledge Engineering student at Kasetsart University  
+Interested in **web development**, **backend**, and **AI**.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, Go
+- **Frameworks:** Django, Svelte, React
+- **Tools:** Git, Docker, MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [time_to_dry](https://github.com/tanasatit/time_to_dry) — DAQ final project  
+- [queue-management](https://github.com/pannlnwza/queue-management) — Django app for queue management  
+- [job-applier-3000](https://github.com/lnwdevelopers007/job-applier-3000) — Employment platform for KU students
+
+
+## 📫 Contact
+Bangkok, Thailand  
+Email: tanasatit.n@ku.th
+
